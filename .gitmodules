@@ -1,0 +1,3 @@
+[submodule "whale"]
+	path = whale
+	url = https://github.com/asLody/whale.git
