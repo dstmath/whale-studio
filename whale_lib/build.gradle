@@ -48,7 +48,7 @@ ext {
     // 从Github上clone下来的项目的本地地址
     GITHUB_REPO_PATH = ".."
     PUBLISH_GROUP_ID = 'com.whale'
-    PUBLISH_ARTIFACT_ID = 'wahle_lib'
+    PUBLISH_ARTIFACT_ID = 'whale_lib'
     PUBLISH_VERSION = '1.0.0'
 }
 uploadArchives {
